@@ -95,7 +95,6 @@ number_list = [int(s) for s in string_list]
 patterns = [seven_seg[d].split("\n") for d in number_list]
 
 #Print row-by-row, stitching each digit’s row together
-# There are exactly 5 rows per digit, so we go 0..4
 for row_idx in range(5):
     for digit_lines in patterns:
         # Print the row_idx-th line of this digit, plus two spaces as a separator
