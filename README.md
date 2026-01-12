@@ -52,7 +52,7 @@ If you're also learning Python:
 - Learn from my mistakes (there are many)
 
 ## Connect
-Based in Southwest Florida. Always happy to talk automation, MSP operations, or why Lord Bertram demands second breakfast at 6 PM. Linked in profile is [here!](https://www.linkedin.com/in/derrick-bennett-94a993a6/) send a connection!
+Based in Southwest Florida. Always happy to talk automation, MSP operations, or why Lord Bertram demands second breakfast at 6 PM. Linked in profile is [here](https://www.linkedin.com/in/derrick-bennett-94a993a6/), send a connection!
 
 ---
 
